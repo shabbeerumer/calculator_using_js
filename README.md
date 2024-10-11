@@ -24,14 +24,13 @@ This is a fully responsive calculator built using HTML, CSS,Bootstrape and JavaS
 ## **Screenshots**
 
 ![Calculator Interface](https://github.com/user-attachments/assets/f13c9a63-7d4b-4ac8-96b8-7ea66963c0c4)
-*Responsive Calculator Interface*
 
 ---
 
 ## **Live Demo**
 
 Check out a live demo of the **Responsive Calculator** here
-https://github.com/user-attachments/assets/da15bdd7-1798-4406-82a1-98cfcf75b6da
+da15bdd7-1798-4406-82a1-98cfcf75b6da
 
 ---
 ## **Contact**
